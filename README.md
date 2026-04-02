@@ -1,31 +1,31 @@
-<p align="center">
+## Hi, I’m Yannis 👋
 
-  <h3 align="center">Hi there 👋</h3>
+I build systems that turn messy data into usable products.
 
-  <p align="center">
-    I’m Yannis. I currently work at Picsart as a Senior Frontend Engineer.
-    </p>
-<h3 align="center">  Technologies I use include: </h3>
-      <br />
-<p align="center">
-      React | TypeScript | Storybook
-      <br />
-      <br />
-      Next | Node
-      <br />
-      <br />  
-      AWS Serverless
-      <br />
-      <br />  
-      React Testing Library | Jest |  Cypress
-      <br />
-    <br />
-    For more information about me, check out 
-  <a target="_blank" rel="noopener noreferrer"  href="https://www.yannisspyrou.com/"><strong>yannisspyrou.com »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.yannisspyrou.com">Personal Website</a>
-    ·
-    <a href="https://www.linkedin.com/in/yannis-spyrou-8624ab25/">Linkedin Profile</a>
-  </p>
-</p>
+---
+
+### 🛠 Scoop
+
+A product intelligence system that ingests, normalizes, and compares supermarket data across retailers.
+
+- End-to-end pipeline: crawl → normalize → canonicalize → derive → project → API
+- Handles messy real-world data (pricing, units, product identity)
+- Powers search, deals, and “where to buy” experiences
+
+Live: https://scoopgr.netlify.app
+
+---
+
+### 🧠 What I work on
+
+- Frontend architecture at scale (React / TypeScript)
+- Data pipelines and normalization systems
+- Search, pricing, and product intelligence
+
+---
+
+I write about real-world engineering problems:
+👉 https://yannisspyrou.com
+
+—  
+[Website](https://yannisspyrou.com) · [LinkedIn](https://linkedin.com/in/yannisspyrou)
