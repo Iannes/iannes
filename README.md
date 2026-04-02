@@ -28,4 +28,4 @@ I write about real-world engineering problems:
 👉 https://yannisspyrou.com
 
 —  
-[Website](https://yannisspyrou.com) · [LinkedIn](https://linkedin.com/in/yannisspyrou)
+[Website](https://yannisspyrou.com) · [LinkedIn](https://www.linkedin.com/in/yannis-spyrou-8624ab25)
